@@ -14,6 +14,7 @@
 - [enjoycss | CSS代码生成工具](https://enjoycss.com/)
 ## OpenGL
 - [SHADERed | 可实时预览的着色器编辑器](https://github.com/dfranx/SHADERed)
+- [renderdoc | 一个图形调试器](https://github.com/baldurk/renderdoc)
 - [3d-game-shaders-for-beginners | 初学者的3D游戏着色器开发教程](https://github.com/lettier/3d-game-shaders-for-beginners)
 ## 框架
 - [CEF3 | Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef/src/master/)
