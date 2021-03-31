@@ -20,6 +20,7 @@
 - [renderdoc | 一个图形调试器](https://github.com/baldurk/renderdoc)
 - [shadertoy | 一个在线着色器试验场](https://www.shadertoy.com/)
 - [3d-game-shaders-for-beginners | 初学者的3D游戏着色器开发教程](https://github.com/lettier/3d-game-shaders-for-beginners)
+- [glslang | 着色器语言转换 (GLSL/ESSL/HLSL -> AST -> SPIR-V)](https://github.com/KhronosGroup/glslang)
 ## 框架
 - [CEF3 | Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef/src/master/)
 
