@@ -1,5 +1,3 @@
-# importance
-
 # 底层技术
 ## 二进制
 - [luject | 静态注入动态库](https://github.com/hack0z/luject)
@@ -36,7 +34,7 @@
 - [two | C ++工具包，用于快速开发实时图形应用程序和游戏](https://github.com/hugoam/two)
 
 
-# 其他技术
+# 分布式技术
 - [drogon | 基于C++14/17的Http应用框架](https://github.com/an-tao/drogon)
 - [Disruptor-cpp | LMAX Disruptor C++ 实现](https://github.com/Abc-Arbitrage/Disruptor-cpp)
 
