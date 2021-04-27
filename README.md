@@ -18,6 +18,7 @@
 - [capstone | 多平台多架构反汇编器](https://github.com/aquynh/capstone) [ | 中文指南](https://github.com/kabeor/Micro-Capstone-Engine-API-Documentation)
 - [x64dbg | x64/x32 windows版调式器](https://github.com/x64dbg/x64dbg)
 - [A64Dbg | arm/arm64/x86/x64调试器](https://gitee.com/geekneo/A64Dbg)
+- [pwndbg | 轻松利用GDB开发和逆向工程](https://github.com/pwndbg/pwndbg)
 
 ## 虚拟机
 - [cosmopolitan | C语言一次编译到处运行](https://github.com/jart/cosmopolitan)
@@ -25,6 +26,7 @@
 - [qemu | 一种通用的开源计算机仿真器和虚拟器](https://www.qemu.org/)
 - [unicorn | 一个轻量级的多平台、多架构CPU仿真器框架](https://www.unicorn-engine.org/) [ | 中文指南](https://github.com/kabeor/Micro-Unicorn-Engine-API-Documentation)
 - [qiling | 高级二进制仿真框架](https://github.com/qilingframework/qiling)
+
 
 ## 指令集
 - [VisUAL | 一个学习ARM指令的可视化工具](https://salmanarif.bitbucket.io/visual/)
