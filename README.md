@@ -15,14 +15,18 @@
 - [ghidra | NSA开源逆向工程工具](https://github.com/NationalSecurityAgency/ghidra)
 - [distorm | x86/AMD64 反汇编库](https://github.com/gdabah/distorm/)
 - [zydis | x86/x86-64 反汇编库](https://github.com/zyantific/zydis)
-- [capstone | 多平台多架构反汇编器](https://github.com/aquynh/capstone)
+- [capstone | 多平台多架构反汇编器](https://github.com/aquynh/capstone) [ | 中文指南](https://github.com/kabeor/Micro-Capstone-Engine-API-Documentation)
 - [x64dbg | x64/x32 windows版调式器](https://github.com/x64dbg/x64dbg)
 - [A64Dbg | arm/arm64/x86/x64调试器](https://gitee.com/geekneo/A64Dbg)
-## CPU指令
-- [VisUAL | 一个学习ARM指令的可视化工具](https://salmanarif.bitbucket.io/visual/)
+
 ## 虚拟机
 - [cosmopolitan | C语言一次编译到处运行](https://github.com/jart/cosmopolitan)
 - [jitter | 一个为高效的语言虚拟机生成C代码](http://ageinghacker.net/projects/jitter/)
+- [unicorn | 一个轻量级的多平台、多架构CPU仿真器框架](https://www.unicorn-engine.org/) [ | 中文指南](https://github.com/kabeor/Micro-Unicorn-Engine-API-Documentation)
+
+## 指令集
+- [VisUAL | 一个学习ARM指令的可视化工具](https://salmanarif.bitbucket.io/visual/)
+
 # 可视化技术
 ## Web(HTML+CSS+JS)
 - [enjoycss | CSS代码生成工具](https://enjoycss.com/)
