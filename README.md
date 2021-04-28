@@ -47,6 +47,7 @@
 - [LearnOpenGL | 中文翻译文档](https://learnopengl-cn.github.io/)
 - [geexlab | 一个3D编程的试验场](https://www.geeks3d.com/geexlab/)
 - [two | C ++工具包，用于快速开发实时图形应用程序和游戏](https://github.com/hugoam/two)
+- [ozz-animation | 开源的c++骨骼动画库和工具集](https://github.com/guillaumeblanc/ozz-animation)
 
 
 # 分布式技术
