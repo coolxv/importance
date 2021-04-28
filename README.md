@@ -5,6 +5,8 @@
 - [TCC | Fabrice Bellard大神用C语言实现的一个C语言编译器](https://bellard.org/tcc/)
 - [LCC | 可变目标C编译器图书的示例](https://github.com/drh/lcc)
 - [PCC | 可移植C编译器](http://pcc.ludd.ltu.se/)
+- [ClangTools | 基于Clang官方工具](https://clang.llvm.org/docs/ClangTools.html)
+- [ClangBuildAnalyzer | Clang构建分析工具, 使用-ftime-trace](https://github.com/aras-p/ClangBuildAnalyzer)
 
 ## 二进制
 - [luject | 静态注入动态库](https://github.com/hack0z/luject)
