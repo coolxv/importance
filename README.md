@@ -7,6 +7,12 @@
 - [PCC | 可移植C编译器](http://pcc.ludd.ltu.se/)
 - [ClangTools | 基于Clang官方工具](https://clang.llvm.org/docs/ClangTools.html)
 - [ClangBuildAnalyzer | Clang构建分析工具, 使用-ftime-trace](https://github.com/aras-p/ClangBuildAnalyzer)
+- [c2ffi | 基于clang的FFI包装生成器](https://github.com/rpav/c2ffi)
+- [clang-tags | 基于libclang的C/ c++源代码索引工具](https://github.com/ffevotte/clang-tags)
+- [cling | 基于Clang的C++解释器](https://github.com/root-project/cling)
+- [Clang-ast-viewer | Clang的AST查看器](https://github.com/CAST-projects/Clang-ast-viewer)
+- [CoARCT | 使用Clang工具进行代码分析和重构](https://github.com/lanl/CoARCT)
+- [clang-tutor | Clang教程](https://github.com/banach-space/clang-tutor)
 
 ## 二进制
 - [luject | 静态注入动态库](https://github.com/hack0z/luject)
@@ -21,6 +27,7 @@
 - [x64dbg | x64/x32 windows版调式器](https://github.com/x64dbg/x64dbg)
 - [A64Dbg | arm/arm64/x86/x64调试器](https://gitee.com/geekneo/A64Dbg)
 - [pwndbg | 轻松利用GDB开发和逆向工程](https://github.com/pwndbg/pwndbg)
+- [microsoft-pdb | Microsoft关于PDB格式的信息](https://github.com/microsoft/microsoft-pdb)
 
 ## 虚拟机
 - [cosmopolitan | C语言一次编译到处运行](https://github.com/jart/cosmopolitan)
