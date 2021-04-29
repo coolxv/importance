@@ -20,6 +20,7 @@
 - [patchelf | RPATH修改器](https://github.com/NixOS/patchelf)
 - [poke | 可扩展的结构化二进制数据编辑器](http://www.jemarch.net/poke)
 - [ImHex | 一个适合逆向工程师的十六进制编辑器](https://github.com/WerWolv/ImHex)
+- [cutter | 由rizin提供动力的免费开源逆向工程平台](https://github.com/rizinorg/cutter)
 - [radare2 | 一个逆向工程命令行集和框架](https://github.com/radareorg/radare2)
 - [ghidra | NSA开源逆向工程工具](https://github.com/NationalSecurityAgency/ghidra)
 - [distorm | x86/AMD64 反汇编库](https://github.com/gdabah/distorm/)
