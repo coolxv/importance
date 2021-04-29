@@ -44,6 +44,7 @@
 - [GCC IR | GCC的GENERIC和GIMPLE参考手册](https://gcc.gnu.org/onlinedocs/gccint/GIMPLE.html)[ | GCC Wiki上GIMPLE介绍](https://gcc.gnu.org/wiki/GIMPLE)
 - [LLVM IR | LLVM IR参考手册](https://llvm.org/docs/LangRef.html)
 - [VEX IR | 源于Valgrind，angr参考手册中关于VEX IR介绍](https://docs.angr.io/advanced-topics/ir) [ | VEX IR 中文参考手册](https://github.com/a7vinx/angr-doc-zh_CN/blob/master/docs/ir.md)
+- [webassembly |一种用于基于堆栈的虚拟机的二进制指令格式。](https://webassembly.org/) [ | 二进制格式文档](https://webassembly.github.io/spec/core/binary/index.html)
 
 # 可视化技术
 ## Web(HTML+CSS+JS)
