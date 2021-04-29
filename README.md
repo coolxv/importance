@@ -41,6 +41,7 @@
 
 ## 指令集
 - [VisUAL | 一个学习ARM指令的可视化工具](https://salmanarif.bitbucket.io/visual/)
+- [GCC IR | GCC的GENERIC和GIMPLE参考手册](https://gcc.gnu.org/onlinedocs/gccint/GIMPLE.html)
 - [LLVM IR | LLVM IR参考手册](https://llvm.org/docs/LangRef.html)
 - [VEX IR | 源于Valgrind，angr参考手册中关于VEX IR介绍](https://docs.angr.io/advanced-topics/ir) [ | VEX IR 中文参考手册](https://github.com/a7vinx/angr-doc-zh_CN/blob/master/docs/ir.md)
 
