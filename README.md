@@ -71,12 +71,15 @@
 - [drogon | 基于C++14/17的Http应用框架](https://github.com/an-tao/drogon)
 - [Disruptor-cpp | LMAX Disruptor C++ 实现](https://github.com/Abc-Arbitrage/Disruptor-cpp)
 
-
-# 工具
+# 其他
+## 工具
 - [sysinternals | Windows系统工具集合](https://docs.microsoft.com/en-us/sysinternals/)
 
-# Awesome
+## Awesome
 - [awesome-hpp | 一份精选的非常棒的头文件c++库列表](https://github.com/p-ranav/awesome-hpp)
 - [awesome-cpp | 一份精选的非常棒的c++框架、库列表](https://github.com/fffaraz/awesome-cpp)[ | 中文版本](https://github.com/jobbole/awesome-cpp-cn)
 - [hellogithub | 分享 GitHub 上有趣、入门级的开源项目](https://hellogithub.com/)
+
+## 值得学习开源项目
+- [calculator | 微软自带计算器](https://github.com/Microsoft/calculator)
 
