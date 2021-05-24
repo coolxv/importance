@@ -77,4 +77,5 @@
 
 # Awesome
 - [awesome-hpp | 一份精选的非常棒的头文件c++库列表](https://github.com/p-ranav/awesome-hpp)
+- [awesome-cpp | 一份精选的非常棒的c++框架、库列表](https://github.com/fffaraz/awesome-cpp)[ | 中文版本](https://github.com/jobbole/awesome-cpp-cn)
 
