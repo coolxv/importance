@@ -53,7 +53,8 @@
 - [enjoycss | CSS代码生成工具](https://enjoycss.com/)
 ## Web 引擎
 - [CEF3 | Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef/src/master/)
-
+## 物理引擎
+- [bullet3 | 实时碰撞检测和多物理模拟库](https://github.com/bulletphysics/bullet3)
 ## OpenGL
 - [SHADERed | 可实时预览的着色器编辑器](https://github.com/dfranx/SHADERed)
 - [renderdoc | 一个图形调试器](https://github.com/baldurk/renderdoc)
