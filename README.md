@@ -77,6 +77,7 @@
 - [sysinternals | Windows系统工具集合](https://docs.microsoft.com/en-us/sysinternals/)
 - [pe-bear | PE格式分析工具](https://github.com/hasherezade/pe-bear-releases)
 - [dll_to_exe | 转换DLL为EXE工具](https://github.com/hasherezade/dll_to_exe)
+- [ABI Compliance Checker | ABI兼容检查器](https://lvc.github.io/abi-compliance-checker/)
 
 ## Awesome
 - [awesome-hpp | 一份精选的非常棒的头文件c++库列表](https://github.com/p-ranav/awesome-hpp)
