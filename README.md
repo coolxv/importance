@@ -91,3 +91,4 @@
 - [libsimdpp | 可移植的只有头文件的c++底层SIMD库](https://github.com/p12tic/libsimdpp)
 - [MIPP | c++ 11编写的SIMD指令的可移植包装器](https://github.com/aff3ct/MIPP)
 - [xsimd | SIMD指令包装器和并行优化的数学函数](https://github.com/xtensor-stack/xsimd)
+- [Vc | SIMD矢量类](https://github.com/VcDevel/Vc)
