@@ -97,3 +97,6 @@
 - [MIPP | c++ 11编写的SIMD指令的可移植包装器](https://github.com/aff3ct/MIPP)
 - [xsimd | SIMD指令包装器和并行优化的数学函数](https://github.com/xtensor-stack/xsimd)
 - [Vc | SIMD矢量类](https://github.com/VcDevel/Vc)
+
+## 数值计算库
+- [NumCpp | C++版本Numpy](https://github.com/dpilger26/NumCpp)
