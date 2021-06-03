@@ -48,6 +48,7 @@
 - [VEX IR | 源于Valgrind，angr参考手册中关于VEX IR介绍](https://docs.angr.io/advanced-topics/ir) [ | VEX IR 中文参考手册](https://github.com/a7vinx/angr-doc-zh_CN/blob/master/docs/ir.md)
 - [ESIL | Radare2的可计算字符串中间语言](https://radare.gitbooks.io/radare2book/content/disassembling/esil.html)
 - [webassembly | 一种用于基于堆栈的虚拟机的二进制指令格式。](https://webassembly.org/) [ | 二进制格式文档](https://webassembly.github.io/spec/core/binary/index.html)
+- [ELVM IR | ELVM IR 参考手册](https://github.com/shinh/elvm/blob/master/ELVM.md)
 
 # 可视化技术
 ## Web(HTML+CSS+JS)
