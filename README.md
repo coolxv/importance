@@ -15,6 +15,7 @@
 - [CoARCT | 使用Clang工具进行代码分析和重构](https://github.com/lanl/CoARCT)
 - [clang-tutor | Clang教程](https://github.com/banach-space/clang-tutor)
 - [elvm | ELVM类似于LLVM，但是专门用于深奥的语言](https://github.com/shinh/elvm)
+- [8cc | 一个小巧的C编译器](https://github.com/rui314/8cc)
 
 ## 二进制
 - [luject | 静态注入动态库](https://github.com/hack0z/luject)
