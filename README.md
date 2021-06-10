@@ -17,7 +17,7 @@
 - [elvm | ELVM类似于LLVM，但是专门用于深奥的语言](https://github.com/shinh/elvm)
 - [8cc | 一个小巧的C编译器](https://github.com/rui314/8cc)
 - [chibicc | 一个小巧的C编译器](https://github.com/rui314/chibicc)
-
+- [yadcc | Yet Another Distributed C++ Compiler. 是一套腾讯广告自研的分布式编译系统](https://github.com/Tencent/yadcc)
 ## 二进制
 - [luject | 静态注入动态库](https://github.com/hack0z/luject)
 - [patchelf | RPATH修改器](https://github.com/NixOS/patchelf)
