@@ -41,6 +41,7 @@
 - [unicorn | 一个轻量级的多平台、多架构CPU仿真器框架](https://www.unicorn-engine.org/) [ | 中文指南](https://github.com/kabeor/Micro-Unicorn-Engine-API-Documentation)
 - [qiling | 高级二进制仿真框架](https://github.com/qilingframework/qiling)
 - [wasmer | 基于 WebAssembly 的超轻量级容器，其可以在任何地方运行](https://github.com/wasmerio/wasmer)
+- [wasm3 | 最快的WebAssembly解释器和最通用的运行时](https://github.com/wasm3/wasm3)
 
 
 ## 指令集
