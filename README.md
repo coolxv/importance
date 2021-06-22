@@ -42,6 +42,13 @@
 - [qiling | 高级二进制仿真框架](https://github.com/qilingframework/qiling)
 - [wasmer | 基于 WebAssembly 的超轻量级容器，其可以在任何地方运行](https://github.com/wasmerio/wasmer)
 - [wasm3 | 最快的WebAssembly解释器和最通用的运行时](https://github.com/wasm3/wasm3)
+- [WAVM | WAVM是一个WebAssembly虚拟机，设计用于非web应用程序](https://github.com/WAVM/WAVM)
+- [lucet | Lucet是一个本地WebAssembly编译器和运行时。它的设计目的是在应用程序中安全地执行不受信任的WebAssembly程序](https://github.com/bytecodealliance/lucet)
+- [WasmEdge | WasmEdge(以前称为SSVM)是为边缘计算(包括边缘云和软件定义车辆)优化的高性能WebAssembly (Wasm) VM。在其AOT模式下，WasmEdge是目前市场上速度最快的Wasm VM](https://github.com/WasmEdge/WasmEdge)
+- [wasm-micro-runtim | WebAssembly Micro Runtime (WAMR)是一个独立的WebAssembly (WASM)运行时，占用空间很小](https://github.com/bytecodealliance/wasm-micro-runtime)
+- [wasmi | Wasm解释器](https://github.com/paritytech/wasmi)
+- [VMIR | VMIR是一个用C语言编写的独立库，可以解析和执行:WebAssembly .wasm 和LLVM Bitcode .bc ](https://github.com/andoma/vmir)
+- [graalVM | GraalVM是一个通用虚拟机，用于运行用JavaScript、Python、Ruby、R、基于jvm的语言(如Java、Scala、Clojure、Kotlin)和基于llvm的语言(如C和c++)编写的应用程序。](https://github.com/oracle/graal)
 
 
 ## 指令集
