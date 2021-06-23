@@ -18,6 +18,7 @@
 - [8cc | 一个小巧的C编译器](https://github.com/rui314/8cc)
 - [chibicc | 一个小巧的C编译器](https://github.com/rui314/chibicc)
 - [yadcc | Yet Another Distributed C++ Compiler. 是一套腾讯广告自研的分布式编译系统](https://github.com/Tencent/yadcc)
+- [Emscripten | 是WebAssembly的完整编译器工具链，使用LLVM，特别关注速度、大小和Web平台](https://github.com/emscripten-core/emscripten)
 ## 二进制
 - [luject | 静态注入动态库](https://github.com/hack0z/luject)
 - [patchelf | RPATH修改器](https://github.com/NixOS/patchelf)
