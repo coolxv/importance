@@ -51,6 +51,7 @@
 - [VMIR | VMIR是一个用C语言编写的独立库，可以解析和执行:WebAssembly .wasm 和LLVM Bitcode .bc ](https://github.com/andoma/vmir)
 - [graalVM | GraalVM是一个通用虚拟机，用于运行用JavaScript、Python、Ruby、R、基于jvm的语言(如Java、Scala、Clojure、Kotlin)和基于llvm的语言(如C和c++)编写的应用程序。](https://github.com/oracle/graal)
 - [VMPROTECT | 基于虚拟机的代码混淆](https://github.com/eaglx/VMPROTECT)
+- [V8 | V8是谷歌的开源高性能JavaScript和WebAssembly引擎，用C++编写。它在Chrome和Node.js中被使用](https://v8.dev/)
 
 
 ## 指令集
