@@ -83,7 +83,8 @@
 - [two | C ++工具包，用于快速开发实时图形应用程序和游戏](https://github.com/hugoam/two)
 - [ozz-animation | 开源的c++骨骼动画库和工具集](https://github.com/guillaumeblanc/ozz-animation)
 - [graphics-workshop | 通过编写GPU着色器来学习计算机图形学](https://github.com/ekzhang/graphics-workshop)
-
+## 3D软件
+- [SpaceshipGenerator | 一个Blender脚本程序生成3D宇宙飞船](https://github.com/a1studmuffin/SpaceshipGenerator)
 # 分布式技术
 - [drogon | 基于C++14/17的Http应用框架](https://github.com/an-tao/drogon)
 - [Disruptor-cpp | LMAX Disruptor C++ 实现](https://github.com/Abc-Arbitrage/Disruptor-cpp)
