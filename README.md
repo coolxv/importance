@@ -16,6 +16,7 @@
 - [clang-tutor | Clang教程](https://github.com/banach-space/clang-tutor)
 - [elvm | ELVM类似于LLVM，但是专门用于深奥的语言](https://github.com/shinh/elvm)
 - [8cc | 一个小巧的C编译器](https://github.com/rui314/8cc)
+- [constexpr-8cc | 基于 C++14 常量表达式实现的C编译器](https://github.com/keiichiw/constexpr-8cc)
 - [chibicc | 一个小巧的C编译器](https://github.com/rui314/chibicc)
 - [yadcc | Yet Another Distributed C++ Compiler. 是一套腾讯广告自研的分布式编译系统](https://github.com/Tencent/yadcc)
 - [Emscripten | 是WebAssembly的完整编译器工具链，使用LLVM，特别关注速度、大小和Web平台](https://github.com/emscripten-core/emscripten)
