@@ -115,3 +115,6 @@
 
 ## 数值计算库
 - [NumCpp | C++版本Numpy](https://github.com/dpilger26/NumCpp)
+
+## 混合编程
+- [xlang | 跨各种编程语言开发Windows应用程序](https://github.com/microsoft/xlang)
