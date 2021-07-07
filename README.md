@@ -112,6 +112,7 @@
 - [xsimd | SIMD指令包装器和并行优化的数学函数](https://github.com/xtensor-stack/xsimd)
 - [Vc | SIMD矢量类](https://github.com/VcDevel/Vc)
 - [Intel® 64 and IA-32 Architectures Optimization Reference Manual | Intel的优化手册](https://software.intel.com/content/www/us/en/develop/download/intel-64-and-ia-32-architectures-optimization-reference-manual.html)[ | 示例代码](https://github.com/intel/optimization-manual)
+- [pure_simd | 一个简单的、可扩展的、可移植的、高效的、只有头文件的SIMD库](https://github.com/eatingtomatoes/pure_simd)
 
 ## 数值计算库
 - [NumCpp | C++版本Numpy](https://github.com/dpilger26/NumCpp)
