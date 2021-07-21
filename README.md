@@ -21,6 +21,7 @@
 - [yadcc | Yet Another Distributed C++ Compiler. 是一套腾讯广告自研的分布式编译系统](https://github.com/Tencent/yadcc)
 - [Emscripten | 是WebAssembly的完整编译器工具链，使用LLVM，特别关注速度、大小和Web平台](https://github.com/emscripten-core/emscripten)
 - [Cwerg | 一个轻量级的编译器后端](https://github.com/robertmuth/Cwerg)
+- [Numba | 一个开源的JIT编译器，它将Python和NumPy代码的子集转换为快速的机器码](http://numba.pydata.org/)
 ## 二进制
 - [luject | 静态注入动态库](https://github.com/hack0z/luject)
 - [patchelf | RPATH修改器](https://github.com/NixOS/patchelf)
